@@ -129,6 +129,7 @@ This library takes inspiration from other music theory libraries:
 Showcase of projects that are using Tonal.
 
 - Solfej: https://www.solfej.io/
+- Learn music theory with Sonid: https://www.sonid.app
 
 ## License
 
